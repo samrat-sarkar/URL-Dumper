@@ -1,0 +1,10 @@
+C:\Users\Windows\source\repos\URL Dumper\bin\Debug\URL Dumper.exe.config
+C:\Users\Windows\source\repos\URL Dumper\bin\Debug\URL Dumper.exe
+C:\Users\Windows\source\repos\URL Dumper\bin\Debug\URL Dumper.pdb
+C:\Users\Windows\source\repos\URL Dumper\obj\Debug\URL Dumper.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\URL Dumper\obj\Debug\URL_Dumper.Form1.resources
+C:\Users\Windows\source\repos\URL Dumper\obj\Debug\URL_Dumper.Properties.Resources.resources
+C:\Users\Windows\source\repos\URL Dumper\obj\Debug\URL Dumper.csproj.GenerateResource.cache
+C:\Users\Windows\source\repos\URL Dumper\obj\Debug\URL Dumper.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\URL Dumper\obj\Debug\URL Dumper.exe
+C:\Users\Windows\source\repos\URL Dumper\obj\Debug\URL Dumper.pdb
